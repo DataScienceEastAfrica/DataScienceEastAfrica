@@ -1,5 +1,5 @@
 ### Bringing together the East  African data science community to help foster the exchange of innovative ideas and encourage the growth of open source software.
-🔭 We currently working on 20 days mentorship program on python.
+🔭 We currently working on 20 days mentorship program in python.
 👯 We looking to collaborate on all our datascience projects.
 🤔 We are looking for help with Mentors and on our open source projects.
 💬 Ask me about anything data science.
